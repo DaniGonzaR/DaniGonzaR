@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👀 Estoy buscando trabajo como programador, sin importar si es backend o frontend.<br>- 💞️ Las tecnologías que domino son: Java, TypeScript, AngularJS, OracleSQL, MySQL, HTML y CSS.<br>- 🌱 Actualmente estoy aprendiendo AngularJS y perfeccionando Java y TypeScript.<br>- ⚡ Intentaré hacer commits todas las semanas para mantenerme en activo. - 🌍 Este es mi portafolio web: https://danielgonzalezr.netlify.app</p>
+<p align="left">- 👀 Estoy buscando trabajo como programador, sin importar si es backend o frontend.<br>- 💞️ Las tecnologías que domino son: Java, TypeScript, AngularJS, OracleSQL, MySQL, HTML y CSS.<br>- 🌱 Actualmente estoy aprendiendo AngularJS y perfeccionando Java y TypeScript.<br>- ⚡ Intentaré hacer commits todas las semanas para mantenerme en activo.<br>- 🌍 Aquí puedes visitar mi portafolio web: https://danielgonzalezr.netlify.app</p>
 
 ###
 
