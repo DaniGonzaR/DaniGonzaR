@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hola, soy Daniel González, un desarrollador de software Full-Stack recién graduado.</p>
+<p align="left">👋 Hola, soy Daniel González, un desarrollador de software Full-Stack recién graduado que busca reflejar su experiencia en la programación con proyectos personales.</p>
 
 ###
 
