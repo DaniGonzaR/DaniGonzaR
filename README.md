@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👀 Me encuentro trabajando como Desarrollador Full-Stack orientado a web mientras curso un máster de Data Science & IA.<br>- 💞️ Las tecnologías que más domino son: Java, TypeScript, MySQL, HTML y CSS.<br>- 🌱 Actualmente estoy ampliando mis conocimentos en campos de Big Data y Bases de Datos.<br>- ⚡ Intentaré hacer commits todas las semanas para mantenerme en activo.<br>- 🌍 Aquí puedes visitar mi portafolio web: https://danielgonzalezr.netlify.app<br> - 📚 Y aquí puedes ver mi LinkedIn: https://www.linkedin.com/in/danielgonzalez-rodriguez/</p>
+<p align="left">- 👀 Me encuentro trabajando como Desarrollador Full-Stack orientado a web mientras curso un máster de Data Science & IA.<br>- 💞️ Las tecnologías que más domino son: Java, TypeScript, MySQL, HTML y CSS.<br>- 🌱 Actualmente estoy ampliando mis conocimentos en campos de Big Data y Bases de Datos.<br> - 🌍 Aquí puedes visitar mi portafolio web: https://danielgonzalezr.netlify.app<br> - 📚 Y aquí puedes ver mi LinkedIn: https://www.linkedin.com/in/danielgonzalez-rodriguez/</p>
 
 ###
 
